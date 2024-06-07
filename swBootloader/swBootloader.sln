@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "swBootloader", "swBootloader.csproj", "{CABCF903-B0E2-4D09-AAF3-080D125CAC85}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "..\Setup\Setup.vdproj", "{566A322F-3442-4DC0-9818-FFA3DFAC5C23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CABCF903-B0E2-4D09-AAF3-080D125CAC85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CABCF903-B0E2-4D09-AAF3-080D125CAC85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CABCF903-B0E2-4D09-AAF3-080D125CAC85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CABCF903-B0E2-4D09-AAF3-080D125CAC85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{566A322F-3442-4DC0-9818-FFA3DFAC5C23}.Debug|Any CPU.ActiveCfg = Debug
+		{566A322F-3442-4DC0-9818-FFA3DFAC5C23}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50839EFB-3CC8-4D10-98A0-33289938DA34}
+	EndGlobalSection
+EndGlobal
